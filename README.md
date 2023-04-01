@@ -1,5 +1,5 @@
 ## Hello there, I'm Rafael!
-🎓 Currently in the 3th period of Computer Engineering at Cefet-MG
+🎓 Currently in the 3th period of Computer Engineering at CEFET-MG
 
 📚💻 This profile aims to show what I've done during the algorithms and data structures course
 
